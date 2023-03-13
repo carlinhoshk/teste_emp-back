@@ -1,6 +1,4 @@
 <html>
-<head>
-	<title>README</title>
 </head>
 <body>
 	<h1>Projeto Processamento CSV</h1>
