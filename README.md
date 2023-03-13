@@ -17,13 +17,6 @@
     </ol>
 	<h2>Como usar a API</h2>
 	<p>Para usar a API, envie uma solicitação GET com os parâmetros bucket_name e object_key para a URL <code>localhost:8000/blob_api/</code>.</p>
-	<h3>Exemplo de solicitação</h3>
-	<pre>
-		<code>
-			GET blob_api/?bucket_name=mybucket&object_key=myfile.csv HTTP/1.1
-            Host: localhost:8000
-		</code>
-	</pre>
 	<h2>Dependências</h2>
 	<ul>
 		<li>Django</li>
